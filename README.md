@@ -1,8 +1,8 @@
 ---REQUISITOS---
 
-Aceptar invitacion a proyecto de firebase.
-Tener instalado ultima versión Node.js
-Tener instalado vs code
+- Aceptar invitacion a proyecto de firebase.
+- Tener instalado ultima versión Node.js
+- Tener instalado vs code
 1.- Ejecutar comando "npm install", en el branch "dataGrid"
 
 2.- Ejecutar comando "npm install -g firebase-tools"
